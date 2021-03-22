@@ -140,6 +140,9 @@ function guess(btn){
       clueHoldTime = 985;
       playClueSequence();
       alert("Do better next time!!");
+      score = 0;
+      var displayScore = document.getElementById("score");
+      displayScore.innerHTML = score;
     }
   }
 }
