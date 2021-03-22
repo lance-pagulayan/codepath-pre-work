@@ -4,7 +4,7 @@
 
 Submitted by: **Lance Pagulayan**
 
-Time spent: **13** hours spent in total
+Time spent: **18** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/absorbing-sheer-stretch
                  https://absorbing-sheer-stretch.glitch.me
