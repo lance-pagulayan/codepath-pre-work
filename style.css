@@ -1,0 +1,82 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, monospace;
+  margin: 2em;
+  background-color: lightskyblue;
+  color: crimson;
+}
+
+h1 {
+  font-style: oblique;
+  color: darkred;
+}
+
+button{
+  padding: 15px;
+  border-radius: 12px;
+}
+
+#scoreArea > p{
+  font-family: helvetica, monospace;
+  color: black;
+}
+
+#scoreArea > label{
+  font-family: helvetica, monospace;
+  color: black;
+}
+
+#gameButtonArea > button{
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+
+.hidden{
+  display: none;
+}
+
+#button1{
+  background: lightgreen;
+}
+#button1:active, #button1.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Forange.jpg?v=1616092953241");
+
+}
+
+#button2{
+  background: lightblue;
+}
+#button2:active, #button2.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Fmagnet.jpg?v=1616092946804");
+}
+
+#button3{
+  background: pink;
+}
+#button3:active, #button3.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Fsuperman.jpg?v=1616092958496");
+}
+
+#button4{
+  background: lightyellow;
+}
+#button4:active, #button4.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Fdino.jpg?v=1616092949274");
+}
+
+#button5{
+  background: magenta;
+}
+#button5:active, #button5.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Fbball.jpg?v=1616092943705");
+}
+
+#button6{
+  background: cyan;
+}
+#button6:active, #button6.lit{
+  background-image: url("https://cdn.glitch.com/b6cc9ae9-fb3b-4179-a26f-39af4a3ddb1a%2Fdisney.jpg?v=1616092930861");
+}
