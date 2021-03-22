@@ -69,10 +69,15 @@ what other solutions that other people came up with, one solution I read was to 
 CSS, I noticed that the second color would appear when a user would press on it, so I thought that it would be a good idea to replace that one line of code
 with the url of the image that I wanted to pop up when a user would press on the button. I read other people's comments and I saw that my problem could be solved in different ways,
 but I used the solution that involved CSS, since that made sense to me the most.
-  Another problem that I encountered was implementing a score counter. I was not sure how to even put a score counter on the window,
-so I looked at a couple articles that described different ways of doing it. Then I stumbled the label tag and read more about it. After some more reading,
-I was able to find a snippet of code that allowed me to update a label. I applied that code to the logic of the of the game so that whenever
-a player guesses a pattern correctly, their score wouls increase by 1 point.]
+  The last problem I had while creating this website was that I had trouble getting the sounds to play when opening the game in another tab.
+When I first experienced this problem, I tried simply just to reload the page. It would work sometimes, but usually the game would not make any sound
+upon opening it the first time. It took me a while to find the problem because I kept looking back and forth from the pre-work documentation given
+and my code. However, it seemed that I had followed everything that the document said correctly. There was no website or any outside
+source that I could find that would help me solve my problem. So then I decided to look at the console to see if any errors occurred when I opened the page.
+After hours of searching, I finally found that the console gave me an error message saying "The AudioContext was not allowed to start. It must be resumed (or created)
+after a user gesture on the page." There was a link next to the message, and the link brought me to another page
+that stated something about Autoplay Policy Changes. It included some lines of code that I was
+able to use in order to solve my problem.]
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
