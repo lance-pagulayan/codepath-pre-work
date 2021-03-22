@@ -61,6 +61,7 @@ https://stackoverflow.com/questions/27368778/how-to-toggle-audio-play-pause-with
 https://stackoverflow.com/questions/5836833/create-an-array-with-random-values
 https://stackoverflow.com/questions/931872/what-s-the-difference-between-array-and-while-declaring-a-javascript-ar
 https://stackoverflow.com/questions/40993396/add-a-score-counter-to-a-game-using-html-and-javascript/47168970
+https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [  As it was my first time coding in these languages, this project took a little time to learn some of the concepts. One of the things that 
